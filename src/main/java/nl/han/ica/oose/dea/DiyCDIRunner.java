@@ -31,12 +31,12 @@ import java.util.Set;
  *     <li>The Constructor of the class annotated with {@link DiyPath} and the dependency must be empty </li>
  * </ul>
  */
-public class DiYCdiRunner {
+public class DiyCDIRunner {
 
     private static final String PACKAGE_TO_SCAN = "nl.han.ica.oose.dea";
 
     public static void main(String[] args) {
-        var runner = new DiYCdiRunner();
+        var runner = new DiyCDIRunner();
         runner.runDiyApplication();
     }
 
