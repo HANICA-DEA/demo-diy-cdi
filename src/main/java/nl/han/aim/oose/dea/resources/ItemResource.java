@@ -1,10 +1,10 @@
-package nl.han.ica.oose.dea.resources;
+package nl.han.aim.oose.dea.resources;
 
-import nl.han.ica.oose.dea.annotations.DiyGET;
-import nl.han.ica.oose.dea.annotations.DiyInject;
-import nl.han.ica.oose.dea.annotations.DiyPath;
-import nl.han.ica.oose.dea.services.ItemService;
-import nl.han.ica.oose.dea.services.dto.ItemDTO;
+import nl.han.aim.oose.dea.annotations.DiyGET;
+import nl.han.aim.oose.dea.annotations.DiyInject;
+import nl.han.aim.oose.dea.annotations.DiyPath;
+import nl.han.aim.oose.dea.services.ItemService;
+import nl.han.aim.oose.dea.services.dto.ItemDTO;
 
 import java.util.List;
 

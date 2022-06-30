@@ -1,8 +1,8 @@
-package nl.han.ica.oose.dea;
+package nl.han.aim.oose.dea;
 
-import nl.han.ica.oose.dea.annotations.DiyGET;
-import nl.han.ica.oose.dea.annotations.DiyInject;
-import nl.han.ica.oose.dea.annotations.DiyPath;
+import nl.han.aim.oose.dea.annotations.DiyGET;
+import nl.han.aim.oose.dea.annotations.DiyInject;
+import nl.han.aim.oose.dea.annotations.DiyPath;
 import org.reflections.Reflections;
 
 import java.lang.reflect.InvocationTargetException;

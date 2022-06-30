@@ -1,6 +1,6 @@
-package nl.han.ica.oose.dea.services;
+package nl.han.aim.oose.dea.services;
 
-import nl.han.ica.oose.dea.services.dto.ItemDTO;
+import nl.han.aim.oose.dea.services.dto.ItemDTO;
 
 import java.util.ArrayList;
 import java.util.List;

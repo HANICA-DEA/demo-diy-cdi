@@ -1,4 +1,4 @@
-package nl.han.ica.oose.dea.annotations;
+package nl.han.aim.oose.dea.annotations;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

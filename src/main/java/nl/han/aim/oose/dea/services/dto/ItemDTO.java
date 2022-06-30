@@ -1,4 +1,4 @@
-package nl.han.ica.oose.dea.services.dto;
+package nl.han.aim.oose.dea.services.dto;
 
 import java.util.Arrays;
 
