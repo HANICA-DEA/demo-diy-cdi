@@ -33,7 +33,7 @@ import java.util.Set;
  */
 public class DiyCDIRunner {
 
-    private static final String PACKAGE_TO_SCAN = "nl.han.ica.oose.dea";
+    private static final String PACKAGE_TO_SCAN = "nl.han.aim.oose.dea";
 
     public static void main(String[] args) {
         var runner = new DiyCDIRunner();
@@ -67,7 +67,7 @@ public class DiyCDIRunner {
     private Set<Class<?>> findAllJAXRSClasses(final String packageToScan) {
         System.out.println("Scanning for classes...");
 
-        // Create a new instance of Relections. This is a helper class.
+        // Create a new instance of Reflections. This is a helper class.
         var ref = new Reflections(packageToScan);
 
         // Get all classes annotated with @DiyPath. This will gather
